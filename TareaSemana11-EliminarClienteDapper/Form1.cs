@@ -18,7 +18,9 @@ namespace TareaSemana11_EliminarClienteDapper
 
         public Form1()
         {
+
             InitializeComponent();
+
         }
 
         private void btnEliminarPostre_Click(object sender, EventArgs e)
